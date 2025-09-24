@@ -1,3 +1,4 @@
+package atividade_4;
 /* *
 *Aqui nosso objetivo e criar diferentes variaveis de diferentes valores e classes
 *depois somar, subitrair, multiplicar e dividir seus valores, depois printa-los 

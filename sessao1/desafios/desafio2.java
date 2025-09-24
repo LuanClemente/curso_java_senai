@@ -1,3 +1,4 @@
+package desafios;
 //O objetivo nosso e calcular a media das notas e imprimir como numero flutuante
 
 public class desafio2 {

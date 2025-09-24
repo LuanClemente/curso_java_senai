@@ -1,4 +1,4 @@
-package sessao2;
+package sessao2.atividade_2;
 
 //1 Criando a classe pessoa
 public class atividade {

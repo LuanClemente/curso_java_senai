@@ -1,3 +1,4 @@
+package atividade_6;
 //Temos que criar
 
 public class atividade6 {

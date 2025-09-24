@@ -1,3 +1,4 @@
+package atividade_3;
 //Aqui nosso objetivo e converter as classes, como de INT para SHORT e etc.
 
 public class atividade3 {

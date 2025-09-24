@@ -1,4 +1,4 @@
-package sessao2;
+package sessao2.atividade_3;
 
 //Criando a classe produto
 public class Produto {

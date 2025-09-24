@@ -1,3 +1,4 @@
+package atividade_2;
 /**
  *Aqui precisamos mostrar os resultados economizando o maximo de memoria que
  *conseguirmos e printar tudo no terminal

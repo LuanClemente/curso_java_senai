@@ -1,3 +1,4 @@
+package atividade_5;
 /**
  * aqui temos que criar duas variaveis e utilizando elas printar no terminal tres
  * retornos diferentes, que façam aparecer no terminal que o aluno foi aprovado 

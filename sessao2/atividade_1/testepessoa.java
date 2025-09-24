@@ -1,4 +1,4 @@
-package sessao2;
+package sessao2.atividade_1;
 
 public class testepessoa {
     //metodo principal que será executado no inicio da classe

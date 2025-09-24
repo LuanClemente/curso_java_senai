@@ -1,4 +1,4 @@
-package sessao2;
+package sessao2.atividade_3;
 //Criando main
 public class mainproduto {
     //Metodo principal que será executado no inicio da classe
