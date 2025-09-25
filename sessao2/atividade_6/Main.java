@@ -1,6 +1,6 @@
 package sessao2.atividade_6;
 
-import sessao2.atividade_8.LivroFisico;
+// ...existing code...
 
 // Classe Main.java
 public class Main { // Classe Main
