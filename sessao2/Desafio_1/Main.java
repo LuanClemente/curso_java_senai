@@ -1,4 +1,4 @@
-package sessao2.Desafios;
+package sessao2.Desafio_1;
 
 public class Main { // Classe Main
     public static void main(String[] args) {  // Método principal

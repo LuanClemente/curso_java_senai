@@ -1,7 +1,4 @@
 package sessao2.atividade_8;
-
-import sessao2.atividade_8.LivroFisico;
-
 // Classe Main.java
 public class Main { // Classe Main
     public static void main(String[] args) { // Método principal

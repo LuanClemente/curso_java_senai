@@ -1,4 +1,4 @@
-package sessao2.Desafios;
+package sessao2.Desafio_1;
 
 public class Aluno {
     private String nome; // Nome do aluno
