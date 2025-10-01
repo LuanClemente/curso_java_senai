@@ -32,7 +32,7 @@ public class ExtracaoData { // Classe principal
             String ano = matcher.group(3); // Captura o ano
             
             System.out.println("Dia (Grupo 1): " + dia); // Exibe o dia
-            System.out.println("MÃªs (Grupo 2): " + mes); // Exibe o mes
+            System.out.println("Mês (Grupo 2): " + mes); // Exibe o mes
             System.out.println("Ano (Grupo 3): " + ano); // Exibe o ano
         } else { // Se nao encontrou nenhuma correspondencia
             System.out.println("Data nao encontrada no formato DD/MM/AAAA."); // Mensagem de erro
