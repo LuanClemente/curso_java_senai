@@ -1,4 +1,4 @@
-package sessao5;
+package sessao5.atividade_1;
 
 import java.util.Scanner; // Importa a classe Scanner para leitura de entrada do usuário
 
