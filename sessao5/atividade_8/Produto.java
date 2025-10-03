@@ -19,7 +19,7 @@ public class Produto implements Serializable { // Implementa a interface Seriali
     private transient int codigo; 
 
     // Construtor
-    public Produto(String nome, double preco, int codigo) {
+    public Produto(String nome, double preco, int codigo) { // Inicializa os atributos
         this.nome = nome;
         this.preco = preco;
         this.codigo = codigo;
@@ -27,20 +27,20 @@ public class Produto implements Serializable { // Implementa a interface Seriali
 
     // Métodos Getters (Acessores)
     public String getNome() {
-        return nome;
+        return nome; // Retorna o nome do produto
     }
 
     public double getPreco() {
-        return preco;
+        return preco; // Retorna o preço do produto
     }
 
     public int getCodigo() {
-        return codigo;
+        return codigo; // Retorna o código do produto
     }
     
     // Método toString para facilitar a impressão
-    @Override
-    public String toString() {
-        return "Produto [Nome: " + nome + ", Preço: " + preco + ", Código: " + codigo + "]";
+    @Override // Sobrescreve o método toString da classe Object
+    public String toString() { // Retorna uma representação em string do objeto
+        return "Produto [Nome: " + nome + ", Preço: " + preco + ", Código: " + codigo + "]"; // Formata a string de saída
     }
-}
+} // Fim da classe Produto
