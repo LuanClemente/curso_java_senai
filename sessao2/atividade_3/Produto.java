@@ -45,4 +45,9 @@ public class Produto {
     public double getpreco() {
         return preco;
     }
-}
+
+    public String getCodigo() {
+         
+        throw new UnsupportedOperationException("Unimplemented method 'getCodigo'"); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+} //Fim da classe
