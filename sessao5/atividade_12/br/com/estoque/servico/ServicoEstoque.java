@@ -1,6 +1,6 @@
 package br.com.estoque.servico;
 
-import br.com.estoque.modelo;
+import br.com.estoque.modelo.Produto;
 /**
  * Classe de Serviço (Lógica): Contém regras de negócio.
  * Fica no package br.com.estoque.servico.

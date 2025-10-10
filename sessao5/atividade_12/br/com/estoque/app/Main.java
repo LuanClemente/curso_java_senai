@@ -1,7 +1,7 @@
 package br.com.estoque.app;
 // Importa classes de outros packages para poder usá-las
-import br.com.estoque.modelo; // Importa a classe Produto do package modelo
-import br.com.estoque.servico; // Importa a classe ServicoEstoque do package servico
+import br.com.estoque.modelo.Produto; // Importa a classe Produto do package modelo
+import br.com.estoque.servico.ServicoEstoque; // Importa a classe ServicoEstoque do package servico
 /**
  * Classe Principal da Aplicação (App): Ponto de entrada (método main).
  * Fica no package br.com.estoque.app.
