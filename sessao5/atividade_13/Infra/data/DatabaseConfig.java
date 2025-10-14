@@ -11,7 +11,7 @@ public class DatabaseConfig {
 
 
     // URL de conexão JDBC (simulação)
-    public static final String DB_URL = "jdbc:mysql://localhost:3306/estoque_db";
+    public static final String DB_URL = "https://ubiquitous-space-tribble-jg97gqgw6r4256pp-3306.app.github.dev/";
    
     // Usuário do banco de dados (simulação)
     public static final String DB_USER = "usuario_app";
