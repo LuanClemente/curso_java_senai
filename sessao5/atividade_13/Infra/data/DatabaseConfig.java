@@ -11,7 +11,7 @@ public class DatabaseConfig {
 
 
     // URL de conexão JDBC (simulação)
-    public static final String DB_URL = "https://ubiquitous-space-tribble-jg97gqgw6r4256pp-3306.app.github.dev/";
+    public static final String DB_URL = "/workspaces/curso_java_senai/lib/estoque/estoque.sqlproj";
    
     // Usuário do banco de dados (simulação)
     public static final String DB_USER = "usuario_app";
