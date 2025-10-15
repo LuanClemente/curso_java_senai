@@ -10,14 +10,16 @@ package sessao5.atividade_13.Infra.data;
 public class DatabaseConfig {
 
 
-    // URL de conexão JDBC (simulação)
-    public static final String DB_URL = "/workspaces/curso_java_senai/lib/estoque/estoque.sqlproj";
+    // URL de conexão JDBC para o SQL Server rodando no Docker.
+    // O 'trustServerCertificate=true' é necessário para conexões de desenvolvimento.
+    public static final String DB_URL = "jdbc:sqlserver://127.0.0.1:1433;databaseName=estoque;encrypt=true;trustServerCertificate=true;";
    
-    // Usuário do banco de dados (simulação)
-    public static final String DB_USER = "usuario_app";
+    // Usuário do banco de dados. Usaremos o 'sa' que configuramos no Docker.
+    public static final String DB_USER = "sa";
    
-    // Senha do banco de dados (simulação)
-    public static final String DB_PASSWORD = "senha123";
+    // Senha do banco de dados.
+    // ATENÇÃO: Em um projeto real, NUNCA coloque a senha diretamente no código. Use variáveis de ambiente.
+    public static final String DB_PASSWORD = "Lc@45115722"; //
    
     // Opcional: Adicionar um construtor privado impede a criação de instâncias desta classe
     private DatabaseConfig() {
